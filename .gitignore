@@ -1,0 +1,11 @@
+# 임시 폴더
+.vs
+Debug
+x64
+Release
+
+# 음악 저작권
+*.mp3
+
+# 사용자 데이터
+maps/stats.dat
